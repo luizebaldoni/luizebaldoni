@@ -18,7 +18,7 @@ Me chamo **Luize Baldoni de Oliveira** porem, muitos me chama de Lu Baldoni, ten
 
 ## Mais sobre mim:
 ### Redes sociais
-[Este é meu instagram](https://www.instagram.com/luu_baldoni/)
-[e este meu Twitter](https://twitter.com/baldoni_lu)
-[Meu curriculo online (Lattes CV)](https://twitter.com/baldoni_lu)
+>[Este é meu instagram](https://www.instagram.com/luu_baldoni/)
+>[e este meu Twitter](https://twitter.com/baldoni_lu)
+>[Meu curriculo online (Lattes CV)](https://twitter.com/baldoni_lu)
 
