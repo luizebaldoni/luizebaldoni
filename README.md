@@ -17,8 +17,19 @@ Me chamo **Luize Baldoni de Oliveira** porem, muitos me chama de Lu Baldoni, ten
 3. Binarios;
 
 ## Mais sobre mim:
+![](https://cdn.discordapp.com/attachments/694344499022790707/862462513752440832/lulu_escadas.jpeg)
+
+> "Eu... eu... nem eu mesmo sei, nesse momento... eu... enfim, sei quem eu era, quando me levantei hoje de manhã, mas acho que já me transformei várias vezes desde então".
+Lewis Carroll
+>
+>"A educação é um ato de amor, por isso, um ato de coragem. Não pode temer o debate. A análise da realidade. Não pode fugir à discussão criadora, sob pena de ser uma farsa".
+Paulo Freire
+>
+>"Se a educação não pode tudo, alguma coisa fundamental a educação pode. Se a educação não é a chave das transformações sociais, não é também simplesmente reprodutora da ideologia dominante " (...) 
+Paulo Freire
+
 ### Redes sociais
->[Este é meu instagram](https://www.instagram.com/luu_baldoni/)
->[e este meu Twitter](https://twitter.com/baldoni_lu)
->[Meu curriculo online (Lattes CV)](https://twitter.com/baldoni_lu)
+* [Este é meu instagram](https://www.instagram.com/luu_baldoni/)
+* [Meu Twitter](https://twitter.com/baldoni_lu)
+* [Meu curriculo online (Lattes CV)](https://twitter.com/baldoni_lu)
 
