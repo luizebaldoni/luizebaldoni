@@ -7,14 +7,12 @@ Me chamo **Luize Baldoni de Oliveira** porem, muitos me chama de **Lu Baldoni**,
 - Handebolista há 5 anos e atleta do *HFSM* desde 2020;
 
 ## Conhecimentos em Informatica:
-### Software
-1.  Algoritimos e Programação em C;
-2.  Construção de HTML + CSS + Javascript;
-
-### Hardware
-1. Arimética binaria;
-2. Circuitos digitais;
-3. Binarios;
+1. Algoritimos e Programação em C;
+2. Construção de HTML + CSS + Javascript;
+3. Arimética binaria;
+4. Circuitos digitais;
+5. Binarios;
+6. Entre outros.
 
 ## Mais sobre mim:
 ![](https://cdn.discordapp.com/attachments/694344499022790707/862462513752440832/lulu_escadas.jpeg)
