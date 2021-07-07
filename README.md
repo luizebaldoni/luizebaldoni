@@ -1,4 +1,4 @@
-# Olá!
+# Buongiorno! Buona Notte!
 ## Quem sou eu?
 Me chamo **Luize Baldoni de Oliveira** porem, muitos me chama de Lu Baldoni, tenho 16 anos e sou gaúcha de Santa Maria.
 ## O que eu faço?
