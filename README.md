@@ -31,5 +31,5 @@ Paulo Freire
 ### Redes sociais
 * [Este é meu instagram](https://www.instagram.com/luu_baldoni/)
 * [Meu Twitter](https://twitter.com/baldoni_lu)
-* [Meu curriculo online (Lattes CV)](https://twitter.com/baldoni_lu)
+* [Meu curriculo online (Lattes CV)](http://lattes.cnpq.br/2443856747529848)
 
