@@ -13,7 +13,6 @@ Me chamo **Luize Baldoni de Oliveira** porem, muitos me chama de **Lu Baldoni**,
 5. Python;
 6. Flask;
 7. Microcontroladores;
-8.  
 
 ## Mais sobre mim (curiosidades):
 - Toco violão e teclado um pouco
@@ -34,4 +33,3 @@ Paulo Freire
 * [Este é meu instagram](https://www.instagram.com/luu_baldoni/)
 * Email luize.baldonideoliveira@gmail.com ou oliveira.luize@acad.ufsm.br 
 * [Curriculo online (Lattes CV)](http://lattes.cnpq.br/2443856747529848)
-* 
