@@ -11,9 +11,10 @@ Me chamo **Luize Baldoni**, tenho 17 anos, sou brasileira e gaúcha de Santa Mar
 3. Arimética binaria;
 4. Circuitos digitais;
 5. Python;
-6. Microcontroladores (*Arduino*, *ESP8266* e *Heltec ESP32 LoRa V2*);
-7. Banco de Dados (SQlite e MySQL)
-8. 
+6. Bibliotecas Flask e Dash (Python) 
+7. Microcontroladores (*Arduino*, *ESP8266* e *Heltec ESP32 LoRa V2*);
+8. Banco de Dados (SQlite, MySQL, SQL)
+9. Mobile (Java)
 
 ## Mais sobre mim (curiosidades):
 - Toco violão e teclado um pouco
@@ -27,7 +28,6 @@ Lewis Carroll
 >"A educação é um ato de amor, por isso, um ato de coragem. Não pode temer o debate. A análise da realidade. Não pode fugir à discussão criadora, sob pena de ser uma farsa".
 Paulo Freire
 >
-
 
 ### Contatos
 * [Este é meu instagram](https://www.instagram.com/luu_baldoni/)
