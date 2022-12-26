@@ -6,17 +6,17 @@ Me chamo **Luize Baldoni**, sou brasileira e gaúcha de Santa Maria.
 - Em 2021 entrei em um projeto de pesquisa e extensao em parceria com empresas locais e o *CTISM*, tendo como foco a criação de um hardware multi sensor para ambientes remotos, utilizando a placa Heltec ESP32 LoRa WiFi V2, e desde abril de 2022 sou bolsista deste projeto [aqui voce encontra o repositorio do projeto](https://github.com/luizebaldoni/PROJETO-HELTECESP32)
 
 ## Conhecimentos em Informatica:
-* Front-end:
+#### Front-end:
 - HTML
 - CSS
 - Javascript
-* Back-end:
+#### Back-end:
 - Python
 - C++
 - SQL
 - SQlite3
 - MYSQL
-* Outros:
+#### Outros:
 - Aritimetica Binaria
 - Redes de computadores
 - Circuitos digitais
