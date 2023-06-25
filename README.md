@@ -2,26 +2,29 @@
 ## Quem sou eu?
 Me chamo **Luize Baldoni**, sou brasileira e gaúcha de Santa Maria.
 ## O que eu faço?
-- Estudo Informática para internet no Colegio Tecnico Industrial de Santa Maria (*CTISM-UFSM*) sou formanda do curso e pretendo seguir na area de informatica;
-- Em 2021 entrei em um projeto de pesquisa e extensao em parceria com empresas locais e o *CTISM*, tendo como foco a criação de um hardware multi sensor para ambientes remotos, utilizando a placa Heltec ESP32 LoRa WiFi V2, e desde abril de 2022 sou bolsista deste projeto [aqui voce encontra o repositorio do projeto](https://github.com/luizebaldoni/PROJETO-HELTECESP32)
+- Formada em Informática para internet pelo Colegio Tecnico Industrial de Santa Maria (*CTISM-UFSM*);
+- Fui participante de um projeto de pesquisa e extensao em parceria com empresas locais e o *CTISM*, tendo como foco a criação de um hardware multi sensor para ambientes remotos, utilizando a placa Heltec ESP32 LoRa WiFi V2, e em Abril de 2022 tornei-me bolsista do projeto, ate dezembro do mesmo ano, [aqui voce encontra o repositorio do projeto](https://github.com/luizebaldoni/PROJETO-HELTECESP32)
 
-## Conhecimentos em Informatica:
+## Competências (de 0 a 10 conforme maior conhecimento ou não):
 #### Front-end:
-- HTML
-- CSS
-- Javascript
+- HTML (10/10)
+- CSS (10/10)
+- Javascript (7/10)
+- AJAX (5/10)
 #### Back-end:
-- Python
-- C++
-- SQL
-- SQlite3
-- MYSQL
+- Python (Bibliotecas: Flask, Selenium, Dash, MatPlot) (8/10)
+- C++ (9/10)
+- SQL (10/10)
+- MYSQL (8/10)
 #### Outros:
-- Aritimetica Binaria
-- Redes de computadores
-- Circuitos digitais
-- Microcontroladores
-- Mobile (Java)
+- Aritimetica Binaria (6/10)
+- Redes de computadores (8/10)
+- Circuitos digitais (9/10)
+- Microcontroladores (Arduino, ESP32, ESP8266, MicroPython) (10/10)
+- Mobile (Java) (5/10)
+- Comunicação LoRa (7/10)
+- Arquitetura de Software (5/10) 
+- Sensores (8/10)
 
 ## Mais sobre mim (curiosidades):
 - Toco violão e teclado um pouco
