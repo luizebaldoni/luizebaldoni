@@ -49,7 +49,6 @@ Avaliação do meu nível de conhecimento (0 a 10):
 ## 🎵 Mais sobre mim...
 
 Além do mundo da tecnologia, algumas das minhas paixões são:
-
 🎸 **Música**: Toco violão, guitarra e um pouco de teclado.
 🧨 **Esportes**: Sou goleira e atleta de **handebol há 10 anos**.
 🏊️ **Natação**: Uma paixão que me acompanha há anos.
