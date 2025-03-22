@@ -57,6 +57,7 @@ Além do mundo da tecnologia, algumas das minhas paixões são:
 
 > *"Eu... eu... nem eu mesmo sei, nesse momento... eu... enfim, sei quem eu era, quando me levantei hoje de manhã, mas acho que já me transformei várias vezes desde então."*
 > — Lewis Carroll
+
 > *"A educação é um ato de amor, por isso, um ato de coragem. Não pode temer o debate. A análise da realidade. Não pode fugir à discussão criadora, sob pena de ser uma farsa."*
 > — Paulo Freire
 
