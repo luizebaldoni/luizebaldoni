@@ -1,8 +1,8 @@
-# 👋 Oi, eu sou a Luize Baldoni! 
+# 👋 Ola, eu sou a Luize Baldoni! 
 
 ## 🚀 Sobre mim
 
-Sou **Luize Baldoni**, brasileira e gaúcha de Santa Maria. Tenho formação em **Técnico em Informática para Internet** pelo **Colégio Técnico Industrial de Santa Maria (CTISM-UFSM)**, curso **Engenharia da Computação** na **Universidade Federal de Santa aria (UFSM)** e sou apaixonada por tecnologia, inovação e desenvolvimento de software. Atualmente sou membro do grupo de pesquisas em Modelagem HidroAmbiental e Ecotecnologias, da **UFSM**.
+Me chamo **Luize Baldoni de Oliveira**, brasileira e gaúcha de Santa Maria. Tenho formação em **Técnico em Informática para Internet** pelo **Colégio Técnico Industrial de Santa Maria (CTISM-UFSM)**, curso **Engenharia da Computação** na **Universidade Federal de Santa Maria (UFSM)** e sou apaixonada por tecnologia, inovação e desenvolvimento de software. Atualmente sou membro do grupo de pesquisas em Modelagem HidroAmbiental e Ecotecnologias, da **UFSM**.
 
 ## 💻 Experiências e Projetos
 
@@ -27,21 +27,21 @@ Avaliação do meu nível de conhecimento (0 a 10):
 
 ### 🔹 Back-end:
 
-- **Python** (Flask, Selenium, Dash, MatPlot): ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- **C++**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
-- **SQL**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
+- **Python** (Flask, Selenium, Dash, MatPlot): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **C++**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **SQL**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 - **MySQL**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
 ### 🔹 Outros conhecimentos:
 
 - **Aritmética Binária**: ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Redes de Computadores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
+- **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Microcontroladores** (Arduino, ESP32, ESP8266, MicroPython): ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
 - **Desenvolvimento Mobile** (Java): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Desenvolvimento Mobile** (Kotlin): ⭐⭐⭐⭐⭐⭐ (6/10)
+- **Desenvolvimento Mobile** (Kotlin): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Comunicação LoRa**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Arquitetura de Software**: ⭐⭐⭐⭐⭐ (5/10)
+- **Arquitetura de Software**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Sensores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
 ---
@@ -49,9 +49,9 @@ Avaliação do meu nível de conhecimento (0 a 10):
 ## 🎵 Mais sobre mim...
 
 Além do mundo da tecnologia, algumas das minhas paixões são:
-🎸 **Música**: Toco violão, guitarra e um pouco de teclado.
-🧨 **Esportes**: Sou goleira e atleta de **handebol há 10 anos**.
-🏊️ **Natação**: Uma paixão que me acompanha há anos.
+- **Música**: Toco violão, guitarra e um pouco de teclado.
+- **Esportes**: Sou goleira e atleta de **handebol há 10 anos**.
+- **Natação**: Uma paixão que me acompanha há anos.
 
 ---
 
@@ -65,8 +65,8 @@ Além do mundo da tecnologia, algumas das minhas paixões são:
 
 ## 📢 Como me encontrar?
 
-📸 [Instagram](https://www.instagram.com/lu_baldoni/)
-📧 Email: **luize.baldonideoliveira@gmail.com** ou **oliveira.luize@acad.ufsm.br**
-📄 [Currículo Lattes](http://lattes.cnpq.br/2443856747529848)
+- [Instagram](https://www.instagram.com/lu_baldoni/)
+- Email: **luize.baldonideoliveira@gmail.com** ou **oliveira.luize@acad.ufsm.br**
+- [Currículo Lattes](http://lattes.cnpq.br/2443856747529848)
 
 ---
