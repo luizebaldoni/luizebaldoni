@@ -34,11 +34,12 @@ Avaliação do meu nível de conhecimento (0 a 10):
 
 ### 🔹 Outros conhecimentos:
 
+- **Java**: ⭐⭐⭐⭐⭐ (5/10)
 - **Aritmética Binária**: ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Redes de Computadores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 - **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Microcontroladores** (Arduino, ESP32, ESP8266, MicroPython): ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
-- **Desenvolvimento Mobile** (Java): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Desenvolvimento Mobile** (Java): ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Desenvolvimento Mobile** (Kotlin): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Comunicação LoRa**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Arquitetura de Software**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
