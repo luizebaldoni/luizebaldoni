@@ -27,8 +27,7 @@ Avaliação do meu nível de conhecimento (0 a 10):
 
 ### 🔹 Back-end:
 
-- **Python** (Flask, Selenium, Dash, MatPlot): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **C++**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Python** (Flask, Selenium, Dash, Django, MatPlot): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **SQL**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 - **MySQL**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
@@ -37,12 +36,12 @@ Avaliação do meu nível de conhecimento (0 a 10):
 - **Java**: ⭐⭐⭐⭐⭐ (5/10)
 - **Aritmética Binária**: ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Redes de Computadores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Microcontroladores** (Arduino, ESP32, ESP8266, MicroPython): ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
 - **Desenvolvimento Mobile** (Java): ⭐⭐⭐⭐⭐⭐ (6/10)
 - **Desenvolvimento Mobile** (Kotlin): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Comunicação LoRa**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Arquitetura de Software**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Arquitetura e Engenharia de Software**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
 - **Sensores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
 ---
