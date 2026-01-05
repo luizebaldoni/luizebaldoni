@@ -1,22 +1,20 @@
-# 👋 Oi, eu sou a Luize Baldoni! 
+# 👋 Hey, I'm Luize Baldoni!
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou **Luize Baldoni**, brasileira e gaúcha de Santa Maria. Tenho formação em **Técnico em Informática para Internet** pelo **Colégio Técnico Industrial de Santa Maria (CTISM-UFSM)**, curso **Engenharia da Computação** na **Universidade Federal de Santa aria (UFSM)** e sou apaixonada por tecnologia, inovação e desenvolvimento de software. Atualmente sou membro do grupo de pesquisas em Modelagem HidroAmbiental e Ecotecnologias, da **UFSM**.
+My name is **Luize Baldoni de Oliveira**, Brazilian from Santa Maria, RS. I have a degree in **Internet Informatics Technician** from **Colégio Técnico Industrial de Santa Maria (CTISM-UFSM)**, I am studying **Computer Engineering** at the **Federal University of Santa Maria (UFSM)**, and I am passionate about technology, innovation, and software development. I am currently a member of the Hydro-Environmental Modeling and Ecotechnologies research group at **UFSM**.
 
-## 💻 Experiências e Projetos
+## 💻 Experience and Projects
 
-- Participei de um projeto de pesquisa e extensão em parceria com empresas locais e o **CTISM**, cujo foco foi a criação de um hardware **multi sensor para ambientes remotos**, utilizando a placa **Heltec ESP32 LoRa WiFi V2**. Em abril de 2022, tornei-me bolsista do projeto até dezembro do mesmo ano. Confira o repositório do projeto: [PROJETO-HELTECESP32](https://github.com/luizebaldoni/PROJETO-HELTECESP32).
-- Sou voluntaria em um projeto de pesquisa do curso de fonoaudiologia da UFSM em que eu realizo o desenvolvimento de um aplicativo android, em Kotlin, para o Laboratorio da Fala (LabFala) do curso. Aqui você encontra o repositorio do projeto: [LabFala-App](https://github.com/luizebaldoni/LabFala-App)
-- Sou bolsista do grupo de pesquisa EcoTecnologias, da Universidade Federal de Santa Maria, onde pesquiso e desenvolvo tecnologias para o monitoramento remoto de ambientes e recursos hidrologicos.
-- Final de 2023 e inicio de 2024 realizamos o desenvolvimento de um site, parceiria da *UFSM* com o Colegio Militar de Santa Maria, com objetivo de ser um forum para os alunos do *CMSM*. Repositorio da aplicação: [EstudaVagão](https://github.com/luizebaldoni/EstudaVagao).
-- [Neste repositorio](https://github.com/luizebaldoni/Projetos) você ira encontrar aplicações Web assim como codigos diversos com diferentes funcionalidades que desenvolvi nas disciplinas realizadas ao longo do curso tecnico e faculdade.
+- I participated in a research and extension project in partnership with local companies and **CTISM**, focused on creating a **multi-sensor hardware for remote environments**, using the **Heltec ESP32 LoRa WiFi V2** board. In April 2022, I became a scholarship holder in the project until December of the same year. Check out the project repository: [PROJETO-HELTECESP32](https://github.com/luizebaldoni/PROJETO-HELTECESP32).
+- I am a volunteer in a research project of the Speech Therapy course at UFSM, where I develop an Android application in Kotlin for the Speech Laboratory (LabFala) of the course. Here you can find the project repository: [LabFala-App](https://github.com/luizebaldoni/LabFala-App)
+- I am a scholarship holder in the EcoTechnologies research group at the Federal University of Santa Maria, where I research and develop technologies for remote monitoring of environments and hydrological resources.
+- At the end of 2023 and beginning of 2024, we developed a website, a partnership between *UFSM* and the Military School of Santa Maria, aimed at being a forum for *CMSM* students. Application repository: [EstudaVagão](https://github.com/luizebaldoni/EstudaVagao).
+- [In this repository](https://github.com/luizebaldoni/Projetos) you will find web applications as well as various codes with different functionalities that I developed in technical and university courses.
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
-
-Avaliação do meu nível de conhecimento (0 a 10):
+## 🛠️ Technologies and Skills
 
 ### 🔹 Front-end:
 
@@ -32,30 +30,30 @@ Avaliação do meu nível de conhecimento (0 a 10):
 - **SQL**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
 - **MySQL**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
-### 🔹 Outros conhecimentos:
+### 🔹 Other knowledge:
 
-- **Aritmética Binária**: ⭐⭐⭐⭐⭐⭐ (6/10)
-- **Redes de Computadores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- **Circuitos Digitais**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
-- **Microcontroladores** (Arduino, ESP32, ESP8266, MicroPython): ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
-- **Desenvolvimento Mobile** (Java): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Desenvolvimento Mobile** (Kotlin): ⭐⭐⭐⭐⭐⭐ (6/10)
-- **Comunicação LoRa**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Arquitetura de Software**: ⭐⭐⭐⭐⭐ (5/10)
-- **Sensores**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-
----
-
-## 🎵 Mais sobre mim...
-
-Além do mundo da tecnologia, algumas das minhas paixões são:
-🎸 **Música**: Toco violão, guitarra e um pouco de teclado.
-🧨 **Esportes**: Sou goleira e atleta de **handebol há 10 anos**.
-🏊️ **Natação**: Uma paixão que me acompanha há anos.
+- **Binary Arithmetic**: ⭐⭐⭐⭐⭐⭐ (6/10)
+- **Computer Networks**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
+- **Digital Circuits**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
+- **Microcontrollers** (Arduino, ESP32, ESP8266, MicroPython): ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
+- **Mobile Development** (Java): ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Mobile Development** (Kotlin): ⭐⭐⭐⭐⭐⭐ (6/10)
+- **LoRa Communication**: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
+- **Software Architecture**: ⭐⭐⭐⭐⭐ (5/10)
+- **Sensors**: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
 
 ---
 
-> *"Eu... eu... nem eu mesmo sei, nesse momento... eu... enfim, sei quem eu era, quando me levantei hoje de manhã, mas acho que já me transformei várias vezes desde então."*
+## 🎵 More about me...
+
+Besides the world of technology, some of my passions are:
+🎸 **Music**: I play guitar, electric guitar, and a bit of keyboard.
+🧨 **Sports**: I have been a handball goalkeeper and athlete for **10 years**.
+🏊️ **Swimming**: A passion that has been with me for years.
+
+---
+
+> *"I... I... even I don't know, at this moment... I... anyway, I knew who I was when I got up this morning, but I think I must have changed several times since then."*
 > — Lewis Carroll
 
 > *"A educação é um ato de amor, por isso, um ato de coragem. Não pode temer o debate. A análise da realidade. Não pode fugir à discussão criadora, sob pena de ser uma farsa."*
@@ -63,10 +61,10 @@ Além do mundo da tecnologia, algumas das minhas paixões são:
 
 ---
 
-## 📢 Como me encontrar?
+## 📢 How to find me?
 
-📸 [Instagram](https://www.instagram.com/lu_baldoni/)
-📧 Email: **luize.baldonideoliveira@gmail.com** ou **oliveira.luize@acad.ufsm.br**
-📄 [Currículo Lattes](http://lattes.cnpq.br/2443856747529848)
-
+- 📸 [Instagram](https://www.instagram.com/lu_baldoni/)
+- 📄 [Lattes CV](http://lattes.cnpq.br/2443856747529848)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luizebaldoni/)
+- 📧 **luize.baldonideoliveira@gmail.com** or **oliveira.luize@acad.ufsm.br**
 ---
